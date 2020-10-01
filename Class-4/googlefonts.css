@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Architects Daughter', cursive; 
+    font-size: large;
+    color: yellow;
+}
+body{
+    font-family: 'Fjalla One', sans-serif;
+font-family: 'Quicksand', sans-serif;
+color-adjust: rgba(147, 158, 147, 0.911);
+}
+ul > li {
+    font-family: 'MuseoModerno', cursive;
+    color: violet;
+}

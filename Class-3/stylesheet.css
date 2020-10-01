@@ -1,0 +1,34 @@
+h1 {
+    color: red;
+    background: white;
+    padding: 15px;
+}
+p {
+    color: red;
+}
+h2 {
+    color: green;
+    background: whitesmoke;
+}
+h3 {
+    color: yellow;
+    background-color: whitesmoke;
+}
+h4 {
+    color: blue;
+    background-color: whitesmoke;
+}
+h5 {
+    color: pink;
+    background-color: whitesmoke;
+}
+a:link {
+  color: blue;
+  background-color: transparent;
+  text-decoration: underline;
+  padding:15px;
+}
+a:hover {
+  color: black ;
+  background-color: #cfc ;
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: aliceblue;
+}
+
+body > div {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+    box-shadow: rgba(255, 235, 205, 0.13);
+    background-origin: padding-box;
+    padding: 5px;
+    background-color: white;
+    margin-top: 50px;
+}
+
+ul {
+    list-style-position: inside;
+}
