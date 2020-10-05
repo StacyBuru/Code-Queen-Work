@@ -1,0 +1,47 @@
+.container{
+    margin: 0 auto;
+    text-align: center;
+    width: 700px;
+    margin-top: 20px;
+}
+body{
+    background-color: white;
+    
+}
+.footer{
+    font-size: small;
+    text-decoration: none;
+}
+.logo{
+    width: 30px;
+    height: 30px;
+}
+.inputs{
+    width: 400px;
+    height: 30px;
+    margin-bottom: 20px;
+    background-color: #f5f8fa;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 2px solid #91abab;
+    padding-left: 15px;
+}
+.button{
+    width: 415px;
+    height: 30px;
+    margin-bottom: 20px;
+    background-color: #9bd1f9;
+    border: 0;
+    border-radius: 100px;
+    color: white;
+    font-size: smaller;
+}
+.footer a{
+    text-decoration: none;
+    color: #42a2e3;
+    margin-right: 8px;
+}
+.twitter{
+    font-family: 'Roboto', sans-serif;
+}
