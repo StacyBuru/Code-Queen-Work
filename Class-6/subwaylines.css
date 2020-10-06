@@ -1,0 +1,48 @@
+.red {
+    color: white;
+    background-color: red;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+.green{
+color: white;
+    background-color: green;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+.blue{
+color: white;
+    background-color: blue;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+.orange{
+    color: white;
+    background-color: orange;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+.brown{
+color: white;
+    background-color: brown;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+.yellow{
+color: white;
+    background-color: yellow;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+.grey{
+color: white;
+    background-color: grey;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+.purple{
+color: white;
+    background-color: purple;
+    border-radius: 50%;
+    border: 3px solid black;
+}

@@ -1,0 +1,19 @@
+.carlton{
+    border: 5px solid black;
+    }
+    .red{
+    color: red;
+    }
+    .yellow{
+    color: yellow;
+    }
+    .green{
+    color: green;
+    }
+    .blue{
+    color: blue;
+    }
+    .striped{
+    text-decoration: line-through;
+    }
+    
