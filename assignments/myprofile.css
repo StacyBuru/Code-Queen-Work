@@ -1,0 +1,46 @@
+body{
+    background-color: papayawhip;
+}
+div{
+    width: 600px;
+    margin: auto;
+    border-top: 1px solid grey;
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+    border-bottom: 2px solid grey;
+    box-shadow: ivory;
+    text-align: center;
+    margin-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: whitesmoke;
+}
+.profilePic{
+    border-radius: 60%;
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+}
+ul {
+    list-style-position: inside;
+    font-family: 'Pacifico', cursive;
+}
+h2{
+    text-decoration: underline;
+    font-family: 'Lobster', cursive;
+}
+p{
+    font-family: 'Pacifico', cursive;
+}
+h1{
+    font-family: 'Lobster', cursive;
+}
+.intro{
+    padding-bottom: 5px;
+}
+h3{
+    font-family: 'Lobster', cursive;
+}
+.search{
+    font-family: 'Pacifico', cursive;
+}
