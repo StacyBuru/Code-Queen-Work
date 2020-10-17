@@ -4,6 +4,7 @@
         <title>Twitter Login</title>
         <link rel="stylesheet" href="twitter.css">
         <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     </head>
     <body>
         <div class="containers"> 
@@ -28,8 +29,15 @@
         <div>
             <button class="button"> Sign Up</button>
             </div>
-        <button class="log-in"> Log in</button>
-    </div> 
+            <div>
+             <button class="log-in"> Log in</button>
+            </div>
     </div>
     </body>
     </html>
+
+    <script>
+        $(".log-in").click(function(){
+            $(location).attr("href","file:///C:/Users/user/Desktop/code%20queen/assignments/myprofile.html");
+        });
+    </script>

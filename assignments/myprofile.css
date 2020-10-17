@@ -24,6 +24,7 @@ div{
 ul {
     list-style-position: inside;
     font-family: 'Pacifico', cursive;
+    margin-bottom: 15px;
 }
 h2{
     text-decoration: underline;
@@ -43,4 +44,17 @@ h3{
 }
 .search{
     font-family: 'Pacifico', cursive;
+}
+.welcome{
+    color: red;
+    font-size: large;
+}
+button{
+    background-color: white;
+    width: 200px;
+    height: 20px;
+    border: 2px solid black ;
+    border-radius: 100px;
+    background-color: burlywood;
+    font-family: 'Lobster', cursive;
 }
